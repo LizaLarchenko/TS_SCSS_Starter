@@ -12,4 +12,8 @@ or
 yarn build
 ```
 
+Run project
+...
+npm run serve
+
 to bundle your application
